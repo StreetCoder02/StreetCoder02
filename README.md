@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Aniruddha Pratap Singh 👋
+# Hey, I'm Aniruddha Pratap Singh 
 
 ### Full-Stack Developer · AI/ML Enthusiast · Linux Tinkerer
 
