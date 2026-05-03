@@ -30,7 +30,7 @@ When I'm not coding, I'm customizing my Linux setup, exploring finance and finte
 | Project | Tech | What it does |
 |---|---|---|
 | [🔍 Sentiment Analysis App](https://github.com/StreetCoder02/Sentiment-Analysis-App) | TypeScript · React · Gemini AI · Google Cloud NLP · Hugging Face | Analyzes sentiment from text, PDFs, URLs, and images across 15+ languages with AI-powered insights |
-| [✈️ AI Travel Planner](https://github.com/StreetCoder02/Travel-Itinerary) | TypeScript · React · Perplexity AI · Node.js · Netlify | Generates personalized day-by-day travel itineraries based on budget, interests, and travel style |
+| [✈️ AI Travel Planner](https://github.com/StreetCoder02/Travel-Itinerary) — [🌐 Live](https://triplyai.netlify.app) || TypeScript · React · Perplexity AI · Node.js · Netlify | Generates personalized day-by-day travel itineraries based on budget, interests, and travel style |
 | [👗 StyleMe AI](https://github.com/StreetCoder02/Clothing-Recommendation-app) | Python · Gradio · Gemini 2.5 Flash | AI-powered outfit recommendations based on body shape, height, and personal style |
 
 ---
